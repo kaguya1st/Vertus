@@ -1,4 +1,4 @@
-# Vertus Bot Query rewel 1x sehari 
+# Vertus Bot Query rewel kalu erorr ambil query baru
 
 Auto Claim for Vertus Telegram Bot
 
