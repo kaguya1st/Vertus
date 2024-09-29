@@ -1,6 +1,6 @@
 # Vertus Bot Query rewel kalu erorr ambil query baru
 
-Auto Claim for Vertus Telegram Bot
+Auto Claim for [Vertus Telegram Bot](t.me/vertus_app_bot/app?startapp=cIr2aMEy_5125640256)
 
 
 # Features
